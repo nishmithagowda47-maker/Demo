@@ -2,4 +2,4 @@
 "hello"
 "hello kptians"
 "CS"
-"Student"
+"Student of cs"
