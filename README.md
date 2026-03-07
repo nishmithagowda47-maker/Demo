@@ -3,3 +3,5 @@
 "hello kptians"
 "CS"
 "Student of cs"
+"hy"
+"my name is"
